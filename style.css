@@ -279,7 +279,7 @@ main .container .left .profile{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 1rem;
+    margin-top: 2rem;
     background: var(--color-white);
     padding: 0.4rem var(--card--padding);
     border-radius: var(--border-radius);
